@@ -13,4 +13,4 @@ Symbols
 * Prettier;
 * Tailwind CSS intellisense;
 * Vscode-style-components;
-* PostCSS Lnaguage Support.
+* PostCSS Language Support.
