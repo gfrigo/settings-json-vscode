@@ -14,3 +14,4 @@ Symbols
 * Tailwind CSS intellisense;
 * Vscode-style-components;
 * PostCSS Language Support.
+* MyPy
